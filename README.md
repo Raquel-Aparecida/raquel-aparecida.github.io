@@ -1,3 +1,7 @@
+<center>
+  <img src="img/raquel-logo01.png" width="30%" height="30%">
+</center>
+
 Olá, pessoal, eu sou a Raquel Aparecida, a debutante mais linda e simpática que vocês já viram. Hoje eu vou contar um pouco mais sobre mim.
 Então, vamos lá!
 
